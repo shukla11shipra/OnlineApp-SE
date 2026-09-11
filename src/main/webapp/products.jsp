@@ -5,7 +5,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Products - ShopEase</title>
+    <title>Products - ShopEase(changed)</title>
 
     <style>
         * {
